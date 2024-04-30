@@ -1,0 +1,1 @@
+# reversi-repo-for-transfer
